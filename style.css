@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background: linear-gradient(#8aab1f, #1f7cab);
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
+#marqeeStyle {
+    background-color: cornflowerblue;
+}
+
+#iframeVDO {
+    margin-top: 70px;
+    width: 1000px;
+    height: 550px;
+}
+
+#schoolimg {
+    margin-top: 50px;
+}
+
+#note {
+    background-color: blue;
+    color: aliceblue;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:hover {
+    color: chartreuse;
+}
